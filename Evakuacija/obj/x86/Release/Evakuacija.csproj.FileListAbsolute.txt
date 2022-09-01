@@ -1,0 +1,5 @@
+C:\Users\Miske\Documents\Visual Studio 2010\Projects\Evakuacija\Evakuacija\obj\x86\Release\Evakuacija.csprojResolveAssemblyReference.cache
+C:\Users\Miske\Documents\Visual Studio 2010\Projects\Evakuacija\Evakuacija\obj\x86\Release\Evakuacija.Form1.resources
+C:\Users\Miske\Documents\Visual Studio 2010\Projects\Evakuacija\Evakuacija\obj\x86\Release\Evakuacija.Form2.resources
+C:\Users\Miske\Documents\Visual Studio 2010\Projects\Evakuacija\Evakuacija\obj\x86\Release\Evakuacija.Properties.Resources.resources
+C:\Users\Miske\Documents\Visual Studio 2010\Projects\Evakuacija\Evakuacija\obj\x86\Release\Evakuacija.csproj.GenerateResource.Cache
